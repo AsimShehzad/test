@@ -1,8 +1,8 @@
 #  Read Me For "Real Estate Application"
 
+Please download and extract the .rar file. After loading and running the project in Visual Studio, the AsimTest1 application will get up to Starcounter local server and start. 
 
-
-Hi, please follow these steps to use the application.
+Please follow these steps to use the application.
 
 (1)	Enter User Name and Press “Enter Application”
 (2)	In the new box, insert the name of “Corporation” you intend to create. By pressing “Create New”, the Corporation will be created with the name specified in the box.
