@@ -1,6 +1,6 @@
 #  Read Me For "Real Estate Application"
 
-Hi, please follow these sets to use the application. 
+Hi, please follow these steps to use the application. 
 (1)	Enter User Name and Press “Enter Application”
 (2)	In the new box, insert the name of “Corporation” you intend to create. By pressing “Create New”, the Corporation will be created with the name specified in the box.
 (3)	A new window will open up with option to create franchise offices, insert “Name” of the Franchise that you intend to create by pressing “Create New”. Resultantly, a new franchise will be created as soon as you press the “Create New” tab, with the name that will be provided in the box next to the tab. 
